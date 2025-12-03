@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState(0);
 
-  return <div>I love impulse purchases :3</div>;
+  return <div className="yawn">I love impulse purchases :3</div>;
 }
 
 export default App;
